@@ -1,6 +1,6 @@
 # Data-Science-Project-Life-Cycle
 
-Steps in Data Science life cycle
+Steps in Data Science life cycle are as follows:
  
 Business requirement/understanding.
 
