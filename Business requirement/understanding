@@ -1,3 +1,8 @@
-The first and foremost step is to have a fair business understanding, on what is the data science use case that we are about to solve and how we are gonna approach it. In this phase we will be deciding what exactly is the business KPI(Key Performance Indicator) that we want to solve and also formulating equivalent machine learning KPI that is to be optimized. During this phase we need to make sure on getting a fair domain understanding of domain knowledge. Because domain knowledge give us a better idea on doing feature engineering hacks in the later on stages. When working on a project in some new domain that you have no idea of, it is recommended to connect with some domain experts and get at least some basic understanding before moving ahead. 
+The first and foremost step is to have a fair business understanding, on what is the data science use case that we are about to solve and how we are gonna approach it. 
+In this phase we will be deciding what exactly is the business KPI(Key Performance Indicator) that we want to solve and also formulating equivalent machine learning KPI 
+that is to be optimized. During this phase we need to make sure on getting a fair domain understanding of domain knowledge. 
+Because domain knowledge give us a better idea on doing feature engineering hacks in the later on stages. 
+When working on a project in some new domain that you have no idea of, it is recommended to connect with some domain experts and get at least some basic understanding 
+before moving ahead. 
 This phase gives the kick start for the rest of the steps in a data science project and so be clear on what is the use case that you are gonna work on further and in each phase, 
 question yourself that if the work that you’re doing is adding any value to the use case proposed.
